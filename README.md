@@ -28,5 +28,6 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0596-classes-with-at-least-5-students](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0596-classes-with-at-least-5-students/) | Easy |
+| [0620-not-boring-movies](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0620-not-boring-movies/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 <!---LeetCode Topics End-->
