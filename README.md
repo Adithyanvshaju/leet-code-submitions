@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0001-two-sum/) | Easy |
 | [0066-plus-one](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0066-plus-one/) | Easy |
+| [0217-contains-duplicate](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0217-contains-duplicate/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -16,6 +17,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0001-two-sum/) | Easy |
+| [0217-contains-duplicate](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0217-contains-duplicate/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -31,4 +33,8 @@
 | [0620-not-boring-movies](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0620-not-boring-movies/) | Easy |
 | [1729-find-followers-count](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/1729-find-followers-count/) | Easy |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0217-contains-duplicate](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0217-contains-duplicate/) | Easy |
 <!---LeetCode Topics End-->
