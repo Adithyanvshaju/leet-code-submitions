@@ -7,17 +7,20 @@
 | [0001-two-sum](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0001-two-sum/) | Easy |
 | [0066-plus-one](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0066-plus-one/) | Easy |
 | [0217-contains-duplicate](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0268-missing-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0066-plus-one/) | Easy |
+| [0268-missing-number](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0268-missing-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0412-fizz-buzz/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0268-missing-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -37,4 +40,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0217-contains-duplicate/) | Easy |
+| [0268-missing-number](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0268-missing-number/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0268-missing-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
