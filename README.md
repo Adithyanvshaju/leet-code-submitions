@@ -32,6 +32,7 @@
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0175-combine-two-tables](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0175-combine-two-tables/) | Easy |
 | [0183-customers-who-never-order](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0183-customers-who-never-order/) | Easy |
 | [0596-classes-with-at-least-5-students](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0620-not-boring-movies](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0620-not-boring-movies/) | Easy |
