@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0001-two-sum/) | Easy |
 | [0066-plus-one](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0066-plus-one/) | Easy |
+| [0075-sort-colors](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0075-sort-colors/) | Medium |
 | [0217-contains-duplicate](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0268-missing-number/) | Easy |
 ## Math
@@ -41,6 +42,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0075-sort-colors/) | Medium |
 | [0217-contains-duplicate](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0268-missing-number/) | Easy |
 ## Binary Search
@@ -51,4 +53,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0268-missing-number/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0075-sort-colors/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
