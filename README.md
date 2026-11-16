@@ -26,6 +26,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0412-fizz-buzz](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0412-fizz-buzz/) | Easy |
+| [0709-to-lower-case](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0709-to-lower-case/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
