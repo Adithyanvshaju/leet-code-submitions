@@ -14,6 +14,7 @@
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0009-palindrome-number/) | Easy |
 | [0066-plus-one](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0066-plus-one/) | Easy |
+| [0069-sqrtx](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0268-missing-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0412-fizz-buzz/) | Easy |
 ## Hash Table
@@ -49,6 +50,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0069-sqrtx](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0268-missing-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -66,4 +68,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0075-sort-colors/) | Medium |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
