@@ -5,4 +5,5 @@ class Solution:
         while i * i <= x:
             i += 1
 
+
         return i - 1
