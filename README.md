@@ -27,6 +27,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0344-reverse-string](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0344-reverse-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0412-fizz-buzz/) | Easy |
 | [0709-to-lower-case](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0771-jewels-and-stones/) | Easy |
@@ -62,6 +63,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0075-sort-colors/) | Medium |
+| [0344-reverse-string](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0344-reverse-string/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
