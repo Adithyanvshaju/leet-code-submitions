@@ -23,11 +23,13 @@
 | [0001-two-sum](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0268-missing-number/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0771-jewels-and-stones/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0344-reverse-string](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0344-reverse-string/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0412-fizz-buzz](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0412-fizz-buzz/) | Easy |
 | [0709-to-lower-case](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0771-jewels-and-stones/) | Easy |
@@ -76,4 +78,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0069-sqrtx/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Adithyanvshaju/leet-code-submitions/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
